@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: MiniChat.ClientTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.004 s <<< FAILURE! - in MiniChat.ClientTest
+initializationError(MiniChat.ClientTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method Receive should have no parameters
+
+initializationError(MiniChat.ClientTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method getNom() should be void
+
+initializationError(MiniChat.ClientTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method getPwd() should be void
+
+initializationError(MiniChat.ClientTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method ReceiveList should have no parameters
+
+initializationError(MiniChat.ClientTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method getLogin() should be void
+

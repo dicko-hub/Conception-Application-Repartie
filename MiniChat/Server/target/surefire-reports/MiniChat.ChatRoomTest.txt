@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: MiniChat.ChatRoomTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 7, Skipped: 0, Time elapsed: 0.113 s <<< FAILURE! - in MiniChat.ChatRoomTest
+initializationError(MiniChat.ChatRoomTest)  Time elapsed: 0.063 s  <<< ERROR!
+java.lang.Exception: Method SendMsgToAllClients should have no parameters
+
+initializationError(MiniChat.ChatRoomTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method Disconnect() should be void
+
+initializationError(MiniChat.ChatRoomTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method Disconnect should have no parameters
+
+initializationError(MiniChat.ChatRoomTest)  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.Exception: Method Connect() should be void
+
+initializationError(MiniChat.ChatRoomTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method Connect should have no parameters
+
+initializationError(MiniChat.ChatRoomTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method Send should have no parameters
+
+initializationError(MiniChat.ChatRoomTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method SendList should have no parameters
+

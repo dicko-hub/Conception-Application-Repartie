@@ -1,0 +1,5 @@
+Chatroom\ChatRoom.class
+interfaces\ChatInterface.class
+interfaces\ClientInterface.class
+interfaces\MessageInterface.class
+server\Server.class

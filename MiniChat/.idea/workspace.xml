@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3aed1623-96fd-4daf-aa9c-2d0579ea9367" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="C:/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="dedicatedModuleDir" value=".idea" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YRBLVF7DuDJ0cKwgUsgsyKKlUI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Client/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../ChatroomRmi" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="fr.xebia.blog.jfx" />
+      <recent name="client" />
+      <recent name="Car.MiniChat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\useur\Desktop\Cours\S2\CAR\TP\MiniChat\Server" />
+      <recent name="C:\Users\useur\Desktop\Cours\S2\CAR\TP\MiniChat" />
+      <recent name="C:\Users\useur\Desktop\Cours\S2\CAR\TP\MiniChat\Interfaces\src\main\java\MiniChat\interfaces" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="interfaces" />
+      <recent name="Car.MiniChat" />
+      <recent name="MiniChat.interfaces" />
+      <recent name="MiniChat.client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\useur\Desktop\Cours\S2\CAR\TP\MiniChat\Server\src\main\java\Chatroom" />
+      <recent name="C:\Users\useur\Desktop\Cours\S2\CAR\TP\MiniChat\Server\src\main\java\interfaces" />
+      <recent name="C:\Users\useur\Desktop\Cours\S2\CAR\TP\MiniChat\Client\src\main\java\interfaces" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="interfaces" />
+      <recent name="server" />
+      <recent name="Car.MiniChat" />
+      <recent name="MiniChat.client" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Chatroom" />
+      <recent name="Car.MiniChat" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Visuel">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiniChat.client.Client" />
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MiniChat.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Car.MiniChat.Server" />
+      <module name="Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Car.MiniChat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiniChat.server.Server" />
+      <module name="Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MiniChat.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Visuel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.Visuel" />
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Visuel" />
+        <item itemvalue="Application.Server (1)" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aed1623-96fd-4daf-aa9c-2d0579ea9367" name="Default Changelist" comment="" />
+      <created>1582895470106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582895470106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="141" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582976526551">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="141" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.768@0.0.1366.768" timestamp="1582976526551" />
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1583397689125">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1583397689125" />
+    <state x="534" y="275" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582895871407">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="534" y="275" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1582895871407" />
+    <state x="387" y="130" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1582974583933">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="387" y="130" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1366.768@0.0.1366.768" timestamp="1582974583933" />
+    <state x="484" y="252" width="398" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582972573889">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="484" y="252" width="398" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1582972573889" />
+    <state x="413" y="133" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582980128143">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="133" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1582980128143" />
+    <state x="534" y="308" key="#com.intellij.refactoring.turnRefsToSuper.TurnRefsToSuperDialog" timestamp="1583397466468">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="534" y="308" key="#com.intellij.refactoring.turnRefsToSuper.TurnRefsToSuperDialog/0.0.1366.768@0.0.1366.768" timestamp="1583397466468" />
+    <state x="463" y="141" key="FileChooserDialogImpl" timestamp="1583363805685">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="141" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1583363805685" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1583363927855">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583363927855" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1583363927855">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583363927855" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1583363927855">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583363927855" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1583363927855">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583363927855" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1582905403229">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582905403229" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1582905403228">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1582905403228" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1582905403228">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1582905403228" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1582905403228">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1582905403228" />
+    <state x="213" y="41" key="Maven.ArtifactSearchDialog" timestamp="1582944426421">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="213" y="41" key="Maven.ArtifactSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1582944426421" />
+    <state x="499" y="164" key="chooseDestDirectoryDialog" timestamp="1583361423228">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="499" y="164" key="chooseDestDirectoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1583361423228" />
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1583396668269">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583396668269" />
+    <state x="65" y="88" key="new project wizard" timestamp="1582900010789">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="88" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1582900010789" />
+    <state x="425" y="9" key="refactoring.ChangeSignatureDialog" timestamp="1583335263476">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="425" y="9" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1583335263476" />
+  </component>
+</project>
