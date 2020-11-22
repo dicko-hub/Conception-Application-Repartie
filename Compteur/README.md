@@ -2,10 +2,10 @@
 
 ## Noms des binômes
 
-|  **Nom**  |  **Prénom**  |              **Email**              |
-|-----------|--------------|-------------------------------------|
-| GILLES    | Charles      | charles.gilles.etu@univ-lille.fr    |
-| DICKO     | Seydou Salia | seydousalia.dicko.etu@univ-lille.fr |
+|  **Nom**  |  **Prénom**  |    
+|-----------|--------------|
+| GILLES    | Charles      |
+| DICKO     | Seydou Salia |
 
 ## Compilation
 
