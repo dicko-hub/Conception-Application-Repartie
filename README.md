@@ -1,5 +1,5 @@
 # Conception d'Applications Réparties
-
-- Gilles Charles charles.gilles.etu@univ-lille.fr
-- Dicko Seydou Salia seydousalia.dicko.etu@univ-lille.fr
+## Auteurs
+- Gilles Charles 
+- Dicko Seydou Salia 
 
