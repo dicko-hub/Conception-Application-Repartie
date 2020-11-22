@@ -3,9 +3,7 @@
 ## Noms des binômes
 
 - Charles GILLES
-- charles.gilles.etu@univ-lille.fr
 - Seydou Salia DICKO
-- seydousalia.dicko.etu@univ-lille.fr
 
 ## Compilation
 
